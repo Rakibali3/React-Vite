@@ -1517,7 +1517,7 @@ function FlowerBouquet() {
       {finished && (
         <div className="absolute inset-x-0 bottom-10 z-20 flex justify-center px-5">
           <div className="rounded-full border border-white/10 bg-black/20 px-5 py-2 text-xs tracking-[.3em] text-white/40 backdrop-blur-md">
-            FOR Abby ❤️
+            FOR Eysha ❤️
           </div>
         </div>
       )}
@@ -1655,7 +1655,7 @@ function App() {
             </p>
 
             <h1 className="font-romantic mt-6 text-7xl text-pink-100 sm:text-9xl">
-              For Abby
+              For Eysha
             </h1>
 
             <p className="font-serif-romantic mx-auto mt-7 max-w-2xl text-2xl leading-relaxed text-white/60 sm:text-3xl">
@@ -1693,7 +1693,7 @@ function App() {
             />
 
             <p className="mt-8 text-xs uppercase tracking-[.5em] text-pink-200/50">
-              Abby...
+              Eysha...
             </p>
 
             <h2 className="font-serif-romantic mt-6 text-4xl leading-tight text-white sm:text-6xl">
@@ -1730,7 +1730,7 @@ function App() {
             <div className="text-center">
 
               <p className="font-serif-romantic text-3xl text-white/90">
-                Dear Abby,
+                Dear Eysha,
               </p>
 
             </div>
@@ -1792,7 +1792,7 @@ function App() {
               />
 
               <p className="mt-8 text-xs uppercase tracking-[.5em] text-pink-200/50">
-                Abby
+                Eysha
               </p>
 
               <h1 className="font-romantic mt-6 text-6xl leading-tight text-pink-100 sm:text-8xl">
